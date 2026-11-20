@@ -1,7 +1,7 @@
 Unit Test
 =========
 
-**Coverage:** 6.0% (13 of 215 items OK)
+**Coverage:** 13.3% (31 of 233 items OK)
 
 .. _lobster-item-38181aa0f6ccfb59f6c255617af8f959d1aca3a7:
 
@@ -1050,6 +1050,7 @@ Unit Test
 
    .. pull-quote::
 
+      :Partiallyverifies: comp_req__log__send_to_datarouter
       :Asil: B
       :Description: Verifies the ability of sending connect message when connecting to datarouter.
       :Testtype: Interface test
@@ -1080,6 +1081,7 @@ Unit Test
 
    .. pull-quote::
 
+      :Partiallyverifies: comp_req__log__send_to_datarouter
       :Asil: B
       :Description: Verifies that an acquire request delivered via NotifyCallback sends the expected acquire response.
       :Testtype: Interface test
@@ -1100,7 +1102,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:475 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L475>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:476 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L476>`__
 
 .. _lobster-item-ab7f0f7c1af1e571f832dc3dd5a25e1ea4d6780e:
 
@@ -1130,7 +1132,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:500 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L500>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:502 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L502>`__
 
 .. _lobster-item-d9872d9bf9ce1b771f1a5b1ebc8b4898988e2593:
 
@@ -1160,7 +1162,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:532 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L532>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:534 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L534>`__
 
 .. _lobster-item-c4b217c37611f1370001069af32c9a371a7f06a5:
 
@@ -1190,7 +1192,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:557 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L557>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:559 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L559>`__
 
 .. _lobster-item-e14111c64a3998ff521279654d166761a98b1985:
 
@@ -1220,7 +1222,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:587 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L587>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:589 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L589>`__
 
 .. _lobster-item-21dc0a83ee9d3757509a05c8ad5598078db5db14:
 
@@ -1250,7 +1252,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:614 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L614>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:616 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L616>`__
 
 .. _lobster-item-d2209bc033939bd53bd7b6a9f36c3eacf6585208:
 
@@ -1280,7 +1282,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:641 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L641>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:643 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L643>`__
 
 .. _lobster-item-29a8aa5b43f8737e0777a008a7239a48baef5df5:
 
@@ -1310,7 +1312,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:654 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L654>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:656 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L656>`__
 
 .. _lobster-item-2bf270a16179d89da4d7ecc8a1406824fb814e27:
 
@@ -1340,7 +1342,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:668 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L668>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:670 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L670>`__
 
 .. _lobster-item-7796f689c5eab517cc69d2f72b649ce219c5ae4f:
 
@@ -1370,7 +1372,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:692 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L692>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:694 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L694>`__
 
 .. _lobster-item-4fbd6358ccbb62ec87dcd85b14d25526bdfbd11d:
 
@@ -1400,7 +1402,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:712 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L712>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:714 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L714>`__
 
 .. _lobster-item-d40e437ab17c52d5b966d861929e485161505354:
 
@@ -1430,7 +1432,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:739 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L739>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:741 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L741>`__
 
 .. _lobster-item-c6a9cbe8283b70c714b5f8939c348f44cc043833:
 
@@ -1460,7 +1462,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:767 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L767>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:769 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L769>`__
 
 .. _lobster-item-7883e837199562ffc7fcf5a7269983297ee467e1:
 
@@ -1490,7 +1492,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:790 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L790>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_message\_client\_test.cpp:792 <../../../../../../score/mw/log/detail/data_router/data_router_message_client_test.cpp#L792>`__
 
 .. _lobster-item-cbf0ef604154ff657d03587dd7a3ee0f1eefea89:
 
@@ -1800,6 +1802,7 @@ Unit Test
 
    .. pull-quote::
 
+      :Partiallyverifies: comp_req__log__inactive_logstream
       :Asil: B
       :Description: Verifies the in-ability of returning a slot in case of inactive log level.
       :Testtype: Interface test
@@ -1850,7 +1853,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:165 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L165>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:166 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L166>`__
 
 .. _lobster-item-781ecd4f5d5b935066a2cefd62e995b60b51a7ce:
 
@@ -1880,7 +1883,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:184 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L184>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:185 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L185>`__
 
 .. _lobster-item-e8908887877c80662100ee2bff3625b0cae57154:
 
@@ -1910,7 +1913,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:201 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L201>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:202 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L202>`__
 
 .. _lobster-item-91795bc4fe158cdb96c5616da6a81a27e70d1607:
 
@@ -1940,7 +1943,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:211 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L211>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:212 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L212>`__
 
 .. _lobster-item-e402f503839957262472210d367b54f093d183f6:
 
@@ -1970,7 +1973,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:221 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L221>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:222 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L222>`__
 
 .. _lobster-item-2fd57cb1f6e56a44a666027b7b297b85787d3b89:
 
@@ -2000,7 +2003,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:231 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L231>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:232 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L232>`__
 
 .. _lobster-item-9bdf208cb00768ae8762222e79cbefe3f18e4932:
 
@@ -2030,7 +2033,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:241 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L241>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:242 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L242>`__
 
 .. _lobster-item-e4409a0ef45ba69db7bd15fe304363bb318ab5c2:
 
@@ -2060,7 +2063,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:251 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L251>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:252 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L252>`__
 
 .. _lobster-item-176a31d3ee84f00f8cfbe6a3ebde77c77e9adf84:
 
@@ -2090,7 +2093,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:261 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L261>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:262 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L262>`__
 
 .. _lobster-item-507aef5336be2ad2018dcea93dc137e4a444eef1:
 
@@ -2120,7 +2123,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:271 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L271>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:272 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L272>`__
 
 .. _lobster-item-2a7c02a05ffdff7930363ae6938c2fb8bca9c245:
 
@@ -2150,7 +2153,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:281 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L281>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:282 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L282>`__
 
 .. _lobster-item-232067c3fcd81e8876ad92288ea1535a54634d25:
 
@@ -2180,7 +2183,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:291 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L291>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:292 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L292>`__
 
 .. _lobster-item-dba1ec92c3408f9513eec6c27623daa4e8a69676:
 
@@ -2210,7 +2213,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:301 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L301>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:302 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L302>`__
 
 .. _lobster-item-5bc151eb05fdb091e0761087a21b9e8cbf621ae6:
 
@@ -2240,7 +2243,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:311 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L311>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:312 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L312>`__
 
 .. _lobster-item-b846473bc891b74da309950b5e0c3592e8a5f8d1:
 
@@ -2270,7 +2273,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:321 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L321>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:322 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L322>`__
 
 .. _lobster-item-adc2f79923c03685a5df092e9e94982d93ec44f3:
 
@@ -2300,7 +2303,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:331 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L331>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:332 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L332>`__
 
 .. _lobster-item-fb17ce409512aaf73ba665bb8f57a6521bbf9df0:
 
@@ -2330,7 +2333,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:341 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L341>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:342 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L342>`__
 
 .. _lobster-item-ee9da7c5b7ecbb6ed223cd7b2bfa3a0d2b60b85a:
 
@@ -2360,7 +2363,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:351 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L351>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:352 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L352>`__
 
 .. _lobster-item-64a6069d17b8cdf8ec0ed1a214c6b505a6e5f949:
 
@@ -2390,7 +2393,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:361 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L361>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:362 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L362>`__
 
 .. _lobster-item-9664979b01490391b42be9e6f4e29ee7b3de7adf:
 
@@ -2420,7 +2423,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:371 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L371>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:372 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L372>`__
 
 .. _lobster-item-157e9c50cd62e4b85ac170e55c3deccffa155b1f:
 
@@ -2450,7 +2453,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:381 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L381>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:382 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L382>`__
 
 .. _lobster-item-9133ac32b011afe800d8baa73de637073f75a096:
 
@@ -2480,7 +2483,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:391 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L391>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:392 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L392>`__
 
 .. _lobster-item-2a4f64787ceeaa0a0fae2604716cdb438b234b18:
 
@@ -2510,7 +2513,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:401 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L401>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:402 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L402>`__
 
 .. _lobster-item-335703435ad8e1c5b361e8d2c0dbb6f1493979f9:
 
@@ -2540,7 +2543,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:411 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L411>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:412 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L412>`__
 
 .. _lobster-item-221723c445ecfcc5bba9bed287838e41d0f4e4bb:
 
@@ -2571,7 +2574,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:421 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L421>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:422 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L422>`__
 
 .. _lobster-item-33d5a69dca84898b80c2d9a436653a9fc629367d:
 
@@ -3811,7 +3814,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:118 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L118>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:117 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L117>`__
 
 .. _lobster-item-f115fd5ecd293722606768f7362dc9799f65ea23:
 
@@ -3843,7 +3846,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:135 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L135>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:134 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L134>`__
 
 .. _lobster-item-ad1dce9433d29609bd0323e335554634fdd8d816:
 
@@ -3875,7 +3878,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:153 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L153>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:152 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L152>`__
 
 .. _lobster-item-3a8643503d913ca63a6238d7437654a4bace1fd8:
 
@@ -3907,7 +3910,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:171 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L171>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:170 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L170>`__
 
 .. _lobster-item-590fccd5c84f424c5fbceab12122a66c744af51f:
 
@@ -3939,7 +3942,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:190 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L190>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:189 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L189>`__
 
 .. _lobster-item-1c3eb4ebc88caf080db2d497bf110209265d2bc9:
 
@@ -3973,7 +3976,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:210 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L210>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:209 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L209>`__
 
 .. _lobster-item-6fd3d658e6af82a7e372ab466d2afc2776f1a888:
 
@@ -4005,7 +4008,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:246 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L246>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:245 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L245>`__
 
 .. _lobster-item-c5fd55dd9060ae0cf21b8bd814e8f2d8fdd901d8:
 
@@ -4037,7 +4040,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:277 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L277>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:276 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L276>`__
 
 .. _lobster-item-b3cd1b08cd5a56f8efcd44928e13fd87443ce904:
 
@@ -4069,7 +4072,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:297 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L297>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:296 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L296>`__
 
 .. _lobster-item-276ae66eda57776944ef0a96a987e952b743065f:
 
@@ -4101,7 +4104,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:318 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L318>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:317 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L317>`__
 
 .. _lobster-item-9be476f4c699611b47a28e773cd299c90e4791cf:
 
@@ -4133,7 +4136,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:369 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L369>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:368 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L368>`__
 
 .. _lobster-item-bbbb8b614ddb65b687ed6b64cf4fb190a3dd3001:
 
@@ -4165,7 +4168,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:403 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L403>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:402 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L402>`__
 
 .. _lobster-item-b7a5b9ff46be155ad23f363128b555174aa1385b:
 
@@ -4197,7 +4200,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:438 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L438>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:437 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L437>`__
 
 .. _lobster-item-f6df120a8aea38684bfb47239157059682059f9a:
 
@@ -4229,7 +4232,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:473 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L473>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:472 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L472>`__
 
 .. _lobster-item-854cfc67e6fb0b7a3687a26cf559f88e98a5b92d:
 
@@ -4261,7 +4264,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:521 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L521>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:520 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L520>`__
 
 .. _lobster-item-a11b472d91c74f2a1f17de4dc14dde0abfc5305a:
 
@@ -4280,7 +4283,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:559 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L559>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:558 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L558>`__
 
 .. _lobster-item-7e1584158f41177fc2f4363414c7e7cfa8295111:
 
@@ -5831,7 +5834,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:123 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L123>`__
+   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:122 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L122>`__
 
 .. _lobster-item-3c854f1d14f62b99e3b79a07baa6a9b69e37fd55:
 
@@ -5862,7 +5865,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:197 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L197>`__
+   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:196 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L196>`__
 
 .. _lobster-item-2e0582573476d9a6d7adde6b69bdad40576ccdf4:
 
@@ -5893,7 +5896,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:237 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L237>`__
+   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:236 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L236>`__
 
 .. _lobster-item-61d7d4076fa5a791c1bf4c5bf3a551b116f1a5bc:
 
@@ -5924,7 +5927,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:256 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L256>`__
+   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:255 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L255>`__
 
 .. _lobster-item-171118cf5880d569fa9965c61d106fe81aa55b2a:
 
@@ -5955,7 +5958,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:306 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L306>`__
+   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:305 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L305>`__
 
 .. _lobster-item-1eeda00329e0bf0e3eae02f240424c3aa9be12d8:
 
@@ -5986,7 +5989,41 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:356 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L356>`__
+   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:355 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L355>`__
+
+.. _lobster-item-a9d7c7d6c715c122ad328bb1f697706dfe63becd:
+
+.. dropdown:: [OK] GoogleTest Test SyslogRegistrantTest:SyslogBackendIsRegisteredAfterStaticInitialization
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__system_backend_activation
+      :Description: The syslog backend registrant is registered for LogMode::kSystem during static init.
+      :Testtype: requirements-based
+      :Derivationtechnique: requirements-analysis
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.SystemBackendActivation <lobster-item-0efcc40e65ba07644ad0d90c83b2e03c0167aa77>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.SystemBackendActivation <lobster-item-c9cd5482c0049b64d91b1f53bf505fbdca20a050>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/backend/syslog\_registrant\_test.cpp:28 <../../../../../../score/mw/log/backend/syslog_registrant_test.cpp#L28>`__
 
 .. _lobster-item-cfe908fd84198a355e10ec2722bd19fbe7ebff4c:
 
@@ -5995,7 +6032,7 @@ Unit Test
 
    .. pull-quote::
 
-      :Partiallyverifies: comp_req__log__dlt_verbose_mode
+      :Partiallyverifies: comp_req__log__dlt_verbose_mode, comp_req__log__send_to_datarouter
       :Description: Verify the ability of logging verbose message.
       :Testtype: requirements-based
       :Derivationtechnique: requirements-analysis
@@ -6058,7 +6095,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:117 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L117>`__
+   **Source:** `score/mw/log/detail/data\_router/data\_router\_recorder\_test.cpp:118 <../../../../../../score/mw/log/detail/data_router/data_router_recorder_test.cpp#L118>`__
 
 .. _lobster-item-497f3637ba9e73c1269bd7ec774c1d88eea7aabb:
 
@@ -6134,7 +6171,7 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:347 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L347>`__
+   **Source:** `score/mw/log/detail/data\_router/shared\_memory/writer\_factory\_test.cpp:346 <../../../../../../score/mw/log/detail/data_router/shared_memory/writer_factory_test.cpp#L346>`__
 
 .. _lobster-item-1b528e66b62fc00c9d51817fde888988bbbb9522:
 
@@ -6247,6 +6284,589 @@ Unit Test
       <hr>
 
    **Source:** `score/mw/log/detail/file\_recorder/file\_recorder\_test.cpp:155 <../../../../../../score/mw/log/detail/file_recorder/file_recorder_test.cpp#L155>`__
+
+.. _lobster-item-d8a03643fd9750975b5269682f17318dc1c74823:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:SyslogOpenlog
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Description: Verifies the backend opens the syslog connection on construction.
+      :Testtype: requirements-based
+      :Derivationtechnique: requirements-analysis
+      :Parentrequirement: SCR-8017664
+      :Testingtechnique: Requirements-based test
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:77 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L77>`__
+
+.. _lobster-item-740044965fb328b6933a17861495d76d4b131283:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:SyslogOpenlogWithCapacityBiggerThanTheMaximum
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies backend construction with slots' capacity bigger than the maximum.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:93 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L93>`__
+
+.. _lobster-item-8eb9c9a93d7875c7ca8a5719a28af9807e90200c:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:ReserveSlotShouldAcquireSlot
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__cross_locking
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies the ability of reserving slot.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.CrossLockingPrevention <lobster-item-f215ef9092c9d584be4a7ee548eadcf134530de5>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.CrossLockingPrevention <lobster-item-532a3ea19ff52d3c56fcdfce276b0af8af68564e>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:109 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L109>`__
+
+.. _lobster-item-9f83f960ba066e54c2d3be26d9bb07a07611f77e:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:LevelOffProducesNoEmit
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: A kOff level shall not be emitted to syslog.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:126 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L126>`__
+
+.. _lobster-item-80d4bc261aab3db2748292a3e1cf93be9d25c64c:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:FatalLog
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies the ability of logging fatal message.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:141 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L141>`__
+
+.. _lobster-item-1c49c48ca259035ac68f49cfb38c0ee55aaa9133:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:ErrorLog
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies the ability of logging error message.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:156 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L156>`__
+
+.. _lobster-item-62ee4b56b9e42b59d2bf261f6a8b7406a61e0b0b:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:WarningLog
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies the ability of logging warning message.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:171 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L171>`__
+
+.. _lobster-item-65853fcafc0f65d35bab41765c5f4c41ca5f66a4:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:InfoLog
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies the ability of logging info message.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:186 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L186>`__
+
+.. _lobster-item-b0bca62f2d3cfd35863e74100daaee58c833ad37:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:DebugLog
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies the ability of logging debug message.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:201 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L201>`__
+
+.. _lobster-item-df2ce3c031c944e630deda34747c66d7f339e0c4:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:VerboseLog
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies verbose maps to LOG_DEBUG (syslog has no separate verbose level).
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:216 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L216>`__
+
+.. _lobster-item-187f73efb26d4b993bcc2fc9b581f3c1ebfe60b0:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:MessageShouldContainAppCtxPayload
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies log message contains application id, context id and payload.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:231 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L231>`__
+
+.. _lobster-item-dd655efae5bd544b46e109d436374e3cc5759530:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:BackendShouldHandleEmptyPayload
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies the ability of the backend of handling empty payload.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:246 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L246>`__
+
+.. _lobster-item-bc211acbe813dd1a92e933225e7f19f0bad69fb2:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:LongIdentifiersShouldBeCropped
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies that the application or context IDs should be cropped if it exceeds 4 characters length.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:261 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L261>`__
+
+.. _lobster-item-aabcef9bae4371ff92dcb1df1a96fc9e613939b0:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:NoSlotAvailableShouldReturnEmptyHandle
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies returning empty handler in case of no available slots.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:277 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L277>`__
+
+.. _lobster-item-229dad70571fca3750d1aa6442249f0d077a33bf:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:TooMuchSlotsRequestedShallBeTruncated
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Partiallyverifies: comp_req__log__forward_to_system_logger
+      :Parentrequirement: SCR-8017664
+      :Description: Verifies requesting too much slots shall be truncated.
+      :Testingtechnique: Requirements-based test
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:296 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L296>`__
+
+.. _lobster-item-9495c66f852a2d4f3e8784955264a3478691f95d:
+
+.. dropdown:: [OK] GoogleTest Test SyslogBackendFixture:ToSyslogPriorityInvalidLevel
+   :class-title: sd-bg-success sd-text-white
+
+   .. pull-quote::
+
+      :Parentrequirement: SCR-8017664
+      :Description: Tests ToSyslogPriority with an invalid log level, which must not be emitted.
+      :Testingtechnique: Boundary value analysis
+      :Derivationtechnique: Analysis of requirements
+
+   .. raw:: html
+
+      <hr>
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_backend\_test.cpp:318 <../../../../../../score/mw/log/detail/syslog/syslog_backend_test.cpp#L318>`__
+
+.. _lobster-item-23cc5a6ea34f92961ea500ae400245e947434c90:
+
+.. dropdown:: [OK] GoogleTest Test SyslogRecorderFactoryTest:CreateRecorder
+   :class-title: sd-bg-success sd-text-white
+
+   **Traces to:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-7bf1de0ea8bdf45acdf6439ac04b4a1fbe27f857>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Derived from:**
+
+   * :ref:`MwLog.ForwardToSystemLogger <lobster-item-1e19ff64dfdcb7d355592f7cf299e240907b27dc>`
+
+   .. raw:: html
+
+      <hr>
+
+   **Source:** `score/mw/log/detail/syslog/syslog\_recorder\_factory\_test.cpp:36 <../../../../../../score/mw/log/detail/syslog/syslog_recorder_factory_test.cpp#L36>`__
 
 .. _lobster-item-a5b04b7ebfec7e883c834693fdcf79a02a00779c:
 
@@ -6401,7 +7021,6 @@ Unit Test
 
    .. pull-quote::
 
-      :Partiallyverifies: comp_req__log__no_endless_loops
       :Description: Returning the expected data if the write buffer is full.
       :Testtype: requirements-based
       :Derivationtechnique: boundary-values
@@ -6465,5 +7084,5 @@ Unit Test
 
       <hr>
 
-   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:216 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L216>`__
+   **Source:** `score/mw/log/detail/wait\_free\_producer\_queue/wait\_free\_linear\_writer\_test.cpp:215 <../../../../../../score/mw/log/detail/wait_free_producer_queue/wait_free_linear_writer_test.cpp#L215>`__
 
